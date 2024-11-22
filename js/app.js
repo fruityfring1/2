@@ -5,7 +5,7 @@ function setting(value) {
         sitedes: 'Shopping At TempKaew',
         keyword: 'shop, myshop, top shop',
         author: 'Kaew',
-        file: 'data.csv'
+        file: 'https://github.com/fruityfring1/2/blob/main/data/data.csv'
     };
     return setting[value];
 }
